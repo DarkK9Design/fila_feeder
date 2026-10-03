@@ -1,0 +1,12 @@
+# add the following to your load and unload macros
+
+
+# load: # I put this at the start of the macro
+ACTIVATE_EXTRUDER EXTRUDER=extruder # activates toolhead extruder
+
+# unload: # I have a filament cutting macro so the below gcode starts after that
+FORCE_MOVE STEPPER=extruder DISTANCE=-50 VELOCITY=10 # forces the toolhead to unload without changing temp
+SET_SERVO SERVO=fil_servo ANGLE=17 # engage filament tension. Set angle below 17 for increased grip strength
+ACTIVATE_EXTRUDER EXTRUDER=extruder1 # activates fila_feeder stepper
+_CLIENT_LINEAR_MOVE E=-950 F=1000 
+SET_SERVO SERVO=fil_servo ANGLE=45 # disengage filament tension
