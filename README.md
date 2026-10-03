@@ -1,5 +1,5 @@
 # fila_feeder
-An automatic filament feeder designed to simplify filament loading and unloading at the 3D printer toolhead using a Stealthburner toolhead board, a servo, and filament sensor to detect and feed filament to and from the toolhead.
+An automatic filament feeder designed to simplify filament loading and unloading at the 3D printer toolhead using a Stealthburner toolhead board, a servo, and filament sensor to detect and feed filament to and from the toolhead. **DISCLAIMER:** It is still very much in beta. Read the comments on the .CFG file
 
 # CANBus configuration help
 https://canbus.esoterical.online/
@@ -22,9 +22,8 @@ All files are to be printed using 'VORON Standard' parts settings/filaments:
 | Extrusion width: Forced 0.4mm                        | Solid Top/Bottom Layers: 5                              |
 
 # Bill of Materials
-| Bill of Materials |                                      |      |                         |                                                                        |
-|-------------------|--------------------------------------|------|-------------------------|------------------------------------------------------------------------|
 | Category:         | Part Description:                    | Qty: | Links                   | Notes                                                                  |
+|-------------------|--------------------------------------|------|-------------------------|------------------------------------------------------------------------|
 | Fasteners         |                                      |      |                         |                                                                        |
 |                   | M3x8 SHCS                            |    9 | https://a.co/d/037f3WVD |                                                                        |
 |                   | M3x8 FHCS                            |    1 | https://a.co/d/0hF9KEpC |                                                                        |
