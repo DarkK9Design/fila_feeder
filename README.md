@@ -1,8 +1,7 @@
-<img width="2190" height="2169" alt="20261002_215819" src="https://github.com/user-attachments/assets/f1698541-3de6-4bc8-bdab-e45aedfae370" />
-
-
 # fila_feeder
 An automatic filament feeder designed to simplify filament loading and unloading at the 3D printer toolhead using a Stealthburner toolhead board, a servo, and filament sensor to detect and feed filament to and from the toolhead. **DISCLAIMER:** It is still very much in beta. Read the comments on the [.CFG file](https://github.com/DarkK9Design/fila_feeder/blob/main/Macros/fila_feeder.cfg)
+
+<img width="2190" height="2169" alt="20261002_215819" src="https://github.com/user-attachments/assets/f1698541-3de6-4bc8-bdab-e45aedfae370" />
 
 # CANBus configuration help
 https://canbus.esoterical.online/
