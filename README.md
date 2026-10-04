@@ -23,6 +23,7 @@ All files are to be printed using 'VORON Standard' parts settings/filaments:
 | Material: ABS/ASA                                    | Infill Percentage: 40%                                  |
 | Layer Height: 0.2mm                                  | Wall Count: 4                                           |
 | Extrusion width: Forced 0.4mm                        | Solid Top/Bottom Layers: 5                              |
+| x.x.1 Print files                                    | Print with Tree Supports                                |
 
 # Bill of Materials
 | Category:         | Part Description:                    | Qty: | Links                   | Notes                                                                  |
