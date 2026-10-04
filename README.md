@@ -33,6 +33,7 @@ All files are to be printed using 'VORON Standard' parts settings/filaments:
 |                   | M3x20 SCHS                           |    1 | https://a.co/d/07LzdmIO |                                                                        |
 |                   | M3x30 SCHS                           |    1 | https://a.co/d/07IOfGE3 |                                                                        |
 |                   | M3 Heat Set Insert (M3x5x4)          |    7 | https://a.co/d/00ZfhXog |                                                                        |
+|                   | M3 T-Nut                             |    3 | https://a.co/d/071vCX4D |                                                                        |
 |                   | M2x12 SHCS                           |    2 | https://a.co/d/02RGdxsP |                                                                        |
 | Motion            |                                      |      |                         |                                                                        |
 |                   | BMG Drive Gear Kit                   |    1 | https://a.co/d/01gLroWM |                                                                        |
