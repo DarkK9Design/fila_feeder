@@ -31,6 +31,7 @@ All files are to be printed using 'VORON Standard' parts settings/filaments:
 | Fasteners         |                                      |      |                         |                                                                        |
 |                   | M3x8 SHCS                            |   10 | https://a.co/d/037f3WVD |                                                                        |
 |                   | M3x8 FHCS                            |    1 | https://a.co/d/0hF9KEpC |                                                                        |
+|                   | M3x12 SCHS                           |    3 | https://a.co/d/05wmjjIP |                                                                        |
 |                   | M3x20 SCHS                           |    1 | https://a.co/d/07LzdmIO |                                                                        |
 |                   | M3x30 SCHS                           |    1 | https://a.co/d/07IOfGE3 |                                                                        |
 |                   | M3 Heat Set Insert (M3x5x4)          |    8 | https://a.co/d/00ZfhXog |                                                                        |
