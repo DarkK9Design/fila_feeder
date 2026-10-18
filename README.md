@@ -12,7 +12,7 @@ https://canbus.esoterical.online/
 - [[a]_PCB_Mount_0.2.1.stl](https://github.com/DarkK9Design/fila_feeder/blob/main/CAD/STLs/[a]_PCB_Mount_0.2.1.stl)
 - [[a]_Secure_Cap_0.3.stl](https://github.com/DarkK9Design/fila_feeder/blob/main/CAD/STLs/[a]_Secure_Cap_0.3.stl)
 - [Main_Plate_0.6.stl](https://github.com/DarkK9Design/fila_feeder/blob/main/CAD/STLs/Main_Plate_0.6.stl)
-- [Bowden_In_0.7.1.stl](https://github.com/DarkK9Design/fila_feeder/blob/main/CAD/STLs/Bowden_In_0.7.1.stl)
+- [Bowden_In_0.8.1.stl](https://github.com/DarkK9Design/fila_feeder/blob/main/CAD/STLs/Bowden_In_0.8.1.stl)
 
 **All files** are located on this GitHub in the [STLs folder](https://github.com/DarkK9Design/fila_feeder/tree/main/CAD/STLs)
 
